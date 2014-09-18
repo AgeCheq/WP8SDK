@@ -38,11 +38,8 @@ namespace SampleAgeCheqApp
 
 
         /* Global Variables */
-        string strDeveloperKey = "06c3a8ba-8d2e-429c-9ce6-4f86a70815d6";
-        string strAppID = "84989b93-9010-4e5b-9311-b04de4d9fba4";
-
-        //string strDeveloperKey = "ENTER_YOUR_AGECHEQ_DEVELOPER_KEY HERE";
-        //string strAppID = "ENTER_YOUR_AGECHEQ_APP_ID HERE";
+        string strDeveloperKey = "ENTER_YOUR_AGECHEQ_DEVELOPER_KEY HERE";
+        string strAppID = "ENTER_YOUR_AGECHEQ_APP_ID HERE";
 
         /* Callback Functions */
         public void isRegistered_Callback(params object[] returnArguments)
